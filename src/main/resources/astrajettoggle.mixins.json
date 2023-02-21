@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.redpxnda.astrajettoggle.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "astrajettoggle.refmap.json",
+  "mixins": [
+    "JetArmorMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
